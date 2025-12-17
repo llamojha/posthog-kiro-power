@@ -91,7 +91,3 @@ https://mcp.posthog.com/sse
 ## Contributing
 
 Contributions welcome! Please open an issue or PR.
-
-## License
-
-MIT
