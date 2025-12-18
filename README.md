@@ -28,7 +28,7 @@ A [Kiro Power](https://kiro.dev/docs/powers/) for interacting with [PostHog](htt
 3. Click "Add Custom Power"
 4. Choose one of:
    - **Local Directory**: Clone this repo and provide the path to `powers/posthog`
-   - **Git Repository**: Use this repo URL (once published)
+   - **Git Repository**: Use this repo URL ([once published)](https://github.com/llamojha/posthog-kiro-power/tree/main/powers/posthog)
 5. Update the API key in the power's `mcp.json`:
    ```json
    "POSTHOG_AUTH_HEADER": "Bearer phx_your_api_key_here"
